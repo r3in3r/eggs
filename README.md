@@ -1,4 +1,5 @@
-﻿# Parkers Pterodactyl eggs repo
+﻿this is a fork of the original git used the eggs to build my website https://xgamingserver.com/
+ # Parkers Pterodactyl eggs repo
 
 I am working on adding a large collection of public eggs for the Pterodactyl community.
 
